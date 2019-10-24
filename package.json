@@ -1,0 +1,22 @@
+{
+  "name": "@kevboh/emcee",
+  "version": "1.0.0",
+  "description": "Temporarily add entries to your hosts file.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevboh/emcee.git"
+  },
+  "keywords": [
+    "hosts"
+  ],
+  "author": "Kevin Barrett",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kevboh/emcee/issues"
+  },
+  "homepage": "https://github.com/kevboh/emcee#readme",
+  "bin": {
+    "emcee": "./index.js"
+  }
+}
